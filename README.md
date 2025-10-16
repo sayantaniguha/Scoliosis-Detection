@@ -1,0 +1,3 @@
+- A dataset consisting of scoliosis, spondylolisthesis, and normal vertebrae X-ray images was taken from Kaggle.
+- On the training images, Keras ImageDataGenerator is used to apply a set of augmentations(rotations, zoom, horizontal flips etc.)
+- The InceptionV3 model achieved an accuracy of 96% with 0 False Negatives.
